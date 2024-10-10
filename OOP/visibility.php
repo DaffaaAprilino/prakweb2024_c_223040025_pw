@@ -75,6 +75,7 @@ class Game extends Produk
   }
 }
 
+
 class CetakInfoProduk
 {
   public function cetak(Produk $produk)
